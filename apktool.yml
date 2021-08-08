@@ -1,0 +1,27 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: final_project1.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- assets/1.PNG
+- png
+- jpg
+- assets/2.PNG
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '29'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'
